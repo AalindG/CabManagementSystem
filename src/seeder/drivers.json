@@ -1,0 +1,29 @@
+[
+  {
+    "name": "John Doe",
+    "phoneNumber": "9876598765",
+    "city": "Pune",
+    "carDetails": {
+      "make": "Swift Desire",
+      "vehicleNumber": "MH02AH1090"
+    }
+  },
+  {
+    "name": "Justin Dent",
+    "phoneNumber": "9876598761",
+    "city": "Mumbai",
+    "carDetails": {
+      "make": "Hyundai i20",
+      "vehicleNumber": "MH02PU9871"
+    }
+  },
+  {
+    "name": "Bob Floyd",
+    "phoneNumber": "9876598763",
+    "city": "Pune",
+    "carDetails": {
+      "make": "Honda Amaze",
+      "vehicleNumber": "KA01AH2121"
+    }
+  }
+]

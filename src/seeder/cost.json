@@ -1,0 +1,26 @@
+[
+  {
+    "cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "distance": 150,
+    "tolls": 2
+  },
+  {
+    "cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "distance": 850,
+    "tolls": 35
+  },
+  {
+    "cities": [
+      "Mumbai",
+      "Bangalore"
+    ],
+    "distance": 980,
+    "tolls": 38
+  }
+]
